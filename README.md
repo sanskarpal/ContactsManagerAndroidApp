@@ -79,10 +79,3 @@ Thread management for smooth user experience:
 1. Clone the repository
 2. Open the project in Android Studio
 3. Build and run on a device or emulator running Android 10 (API 29) or higher
-
-## Future Enhancements
-
-- Contact image support
-- Contact search functionality
-- Contact editing capability
-- Backup/restore functionality
